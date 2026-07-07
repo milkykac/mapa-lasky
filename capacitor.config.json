@@ -1,0 +1,12 @@
+{
+  "appId": "com.martinadka.mapalasky",
+  "appName": "Nasa mapa",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#fff8f5"
+  }
+}
